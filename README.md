@@ -3,7 +3,7 @@ Some utility libs for interacting with the CustomerIO API.
 
 This isn't a proper module for use in your projects, it just shows how simple an integration can be.
 
-## Usage: Client
+## Usage
 
 The easiest way to start using is to create a simple initializer for CIO, like this:
 
