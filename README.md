@@ -41,6 +41,6 @@ This hook does two main things:
 
 This effectively "forwards" the url to React Navigation, which will handle the navigation to the appropriate screen.
 
-### useCIONavigationTracking()
+### useCIOScreenTracking()
 
 This hook sends a screen tracking event for every screen navigated to in the app. Load this in your top navigation component.
